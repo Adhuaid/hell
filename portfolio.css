@@ -1,0 +1,84 @@
+.logo{
+    height: 60px;
+    border: 0;
+    margin: 0%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -30px;
+    padding: 10px;
+    margin-right: -10px;
+   
+    padding-top: 20px;
+   background-color: rgba(72, 180, 180, 0.829)
+}
+.logo img{
+    padding: 20px;
+
+}
+.About-Me{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+   
+
+
+
+
+.cont p{
+   
+   
+    
+    padding: 10px;
+    
+    
+}
+
+body{
+    background-image: url(bgd.webp);
+    background-size: cover;
+    height: 100vh;
+}
+.cont{
+   float: right;
+    display: flex;
+    gap: 30px;
+
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 240px;
+    
+}
+#fst{
+    height: 100vh;
+}
+#cardsec{
+    margin-top: 10px;
+  
+    display:flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    
+}
+.cardsec h1{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(1, 33, 61);
+}
+
+
